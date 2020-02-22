@@ -3,4 +3,5 @@ obj
 .vscode
 .DS_Store
 *.db
-node_modules
+
+client-app\node_modules
